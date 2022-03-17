@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "If permission is granted, shows all contacts (name and number) from phone."
   }
 }
